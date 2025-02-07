@@ -1,0 +1,16 @@
+[
+  {
+    "productId": "d35623ee-bef6-42b2-8776-2f99f8bb4782",
+    "name": "Edificio Empresarial ZZ",
+    "price": 456040,
+    "rating": 22.5,
+    "stockQuantity": 1248
+  },
+  {
+    "productId": "8ac1ac77-7358-425e-be16-0bdde9f02e59",
+    "name": "Centro Comercial Gila",
+    "price": 899050,
+    "rating": 35.6,
+    "stockQuantity": 7994
+  }
+]
